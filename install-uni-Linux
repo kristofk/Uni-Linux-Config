@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp -r ~/bin/uni-Linux ~/unibin
+rm -rf ~/bin
+mv ~/bin/unibin ~/bin

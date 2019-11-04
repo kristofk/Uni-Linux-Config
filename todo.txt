@@ -1,3 +1,5 @@
 - link from .bash_profile
 - link from .bashrc
 - append this scripts to PATH
+- create zip alias
+- list search lss=ls -la | grep ...

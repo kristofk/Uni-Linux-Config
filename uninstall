@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm ~/.bash_profile
+rm ~/.bashrc
+rm ~/.Xresources

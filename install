@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ln -s ~/Uni-Linux-Config/bash_profile ~/.bash_profile
-ln -s ~/Uni-Linux-Config/bash_profile ~/.bashrc
-ln -s ~/Uni-Linux-Config/Xresources ~/.Xresources
+ln -s ~/uni-linux-config/bash_profile ~/.bash_profile
+ln -s ~/uni-linux-config/bash_profile ~/.bashrc
+ln -s ~/uni-linux-config/Xresources ~/.Xresources
 
 xrdb ~/.Xresources
 source ~/.bash_profile

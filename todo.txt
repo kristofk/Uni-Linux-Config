@@ -4,3 +4,5 @@
 - create zip alias
 - list search lss=ls -la | grep ...
 - shutdown and startup scripts
+- install override prev files
+- install uninstall measages 

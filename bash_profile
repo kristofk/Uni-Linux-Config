@@ -15,6 +15,7 @@ alias g="geany"
 # My Commands
 alias rlterm="xrdb ~/.Xresources" # reloads the .Xresources file
 alias mexe="chmod 755" # Make executable
+alias lss='ls -la | grep' # Search in all items
 
 # C Projects
 alias ccr="clear && gcc *.c && ./a.out" # c compile run

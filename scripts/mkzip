@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# zip WHAT WHERE
+if [ $# -eq 1 ]; then
+zip -r $1.zip $1
+
+elif [ $# -eq 2 ]; then
+	zip -r $2 $1
+
+else
+	echo "Too many args! (Max 2)"
+fi

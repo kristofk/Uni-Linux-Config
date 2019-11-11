@@ -22,5 +22,7 @@ alias ccr="clear && gcc *.c && ./a.out" # c compile run
 # C++ Projects
 alias cppcr="clear && g++ *.cpp && ./a.out" # cpp compile run
 
-PATH=$PATH$( find $HOME/Uni-Linux-Config/scripts/ -type d -printf ":%p" )
+PATH=$PATH$( find $HOME/uni-linux-config/scripts/ -type d -printf ":%p" )
+
+# Other
 
